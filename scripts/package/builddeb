@@ -285,7 +285,7 @@ Section: kernel
 Priority: optional
 Maintainer: $maintainer
 Build-Depends: $build_depends
-Standards-Version: 3.8.4
+Standards-Version: 4.6.2
 Homepage: http://www.kernel.org/
 EOF
 
